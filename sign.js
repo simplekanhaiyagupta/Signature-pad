@@ -1,7 +1,7 @@
 window.onload = function() {
     var canvas = document.createElement('canvas');
     canvas.id = 'canvas';
-    canvas.width = 700;
+    canvas.width = 730;
     canvas.height = 390;
     
     
