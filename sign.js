@@ -1,8 +1,8 @@
 window.onload = function() {
     var canvas = document.createElement('canvas');
     canvas.id = 'canvas';
-    canvas.width = 500;
-    canvas.height = 400;
+    canvas.width = 700;
+    canvas.height = 390;
     
     
     
